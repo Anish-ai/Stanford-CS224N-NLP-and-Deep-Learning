@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyter
+ipykernel
+torch
+transformers
+nltk
+spacy
+tqdm
+scikit-learn
+regex
+requests
+tensorboard
+gensim
